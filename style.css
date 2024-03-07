@@ -1,0 +1,12 @@
+.res {
+    height: 460px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.result {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
